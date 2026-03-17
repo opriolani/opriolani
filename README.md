@@ -8,9 +8,9 @@
 **Feeder Manager, PHED · Data Scientist · Power Distribution Systems**
 `BE Electrical` · `MBA` · `MSc Financial Engineering (WorldQuant)`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Opiribo_Olaniyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Streamlit App](https://img.shields.io/badge/Live_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://YOUR_STREAMLIT_APP)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Opiribo_Olaniyo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/opiribo-olaniyo-6155a413a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:opriolani@gmail.com)
+[![Streamlit App](https://img.shields.io/badge/Live_Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](#)
 
 </div>
 
@@ -114,8 +114,8 @@ Business Impact:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Energy_Data_Portfolio_Project&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=e6edf3&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Energy_Data_Portfolio_Project&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=e6edf3&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=opriolani&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=e6edf3&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opriolani&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=e6edf3&bg_color=0d1117" />
 
 </div>
 
@@ -137,8 +137,8 @@ Business Impact:
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/energy-data-science-portfolio
-cd energy-data-science-portfolio
+git clone https://github.com/opriolani/Energy_Data_Portfolio_Project
+cd Energy_Data_Portfolio_Project
 pip install -r requirements.txt
 python data_generation/synthetic_feeder_generator.py
 streamlit run app.py
@@ -150,6 +150,6 @@ streamlit run app.py
 
 *"Data without insight is noise. Insight without action is waste."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Energy_Data_Portfolio_Project&color=00d4ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=opriolani&color=00d4ff&style=flat-square&label=Profile+Views)
 
 </div>
