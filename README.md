@@ -114,8 +114,8 @@ Business Impact:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=e6edf3&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=e6edf3&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Energy_Data_Portfolio_Project&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=e6edf3&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Energy_Data_Portfolio_Project&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=e6edf3&bg_color=0d1117" />
 
 </div>
 
@@ -150,6 +150,6 @@ streamlit run app.py
 
 *"Data without insight is noise. Insight without action is waste."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00d4ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Energy_Data_Portfolio_Project&color=00d4ff&style=flat-square&label=Profile+Views)
 
 </div>
